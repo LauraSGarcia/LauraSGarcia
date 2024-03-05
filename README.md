@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+I am a technician in Digital Cultures at Newcastle University. I use this account explicitly to help with teaching MCH2091.
+
+### What do I do
+I am not a cat
 
 <!--
 **LauraSGarcia/LauraSGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
