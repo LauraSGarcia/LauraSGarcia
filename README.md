@@ -1,6 +1,8 @@
 ### About me
 I am a technician in Digital Cultures at Newcastle University. I use this account explicitly to help with teaching MCH2091.
 
+<img src="cat.jpg" alt=cat-photo>
+<h1>this is an example of html heading working</h1>
 ### What do I do
 I am not a cat
 
